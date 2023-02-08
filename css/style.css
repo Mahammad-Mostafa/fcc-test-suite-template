@@ -10,6 +10,11 @@ body{
     text-align: center;
     font-size: 45px;
 }
+#title-bottom{
+    text-align: center;
+    font-size: 15px;
+    margin: 15px;
+}
 #img-div{
     text-align: center;
     padding: 10px;
@@ -18,4 +23,11 @@ body{
 #image{
     width: 100%;
     max-width: 1024px;
+}
+#img-caption{
+    font-size: 18px;
+}
+#time-line{
+    text-align: center;
+
 }
