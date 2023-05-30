@@ -1,24 +1,33 @@
 <a name="readme-top"></a>
 
+<!-- PROJECT TITLE -->
+
+# 🏷️ Tribute Page
+
+This is my first trial project with **Microverse**. Check the below contents for futher details about this project.
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Contents
 
-- [📖 Description](#about-project)
+[📖 Description](#about-project)
   - [Tech Stack](#tech-stack)
   - [Key Features](#key-features)
-- [💻 Getting Started](#getting-started)
+
+[💻 Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
   - [Deployment](#deployment)
-- [👥 Authors](#author)
-- [📝 License](#license)
+
+[👥 Authors](#author)
+
+[📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Description <a name="about-project"></a>
 
-This is my first trial project with **Microverse**. It is a single web page built with **HTML** & **CSS** through **pair programming**.
+It is a single web page built with **HTML** & **CSS** through **pair programming**.
 The project required several instructions to be followed in building HTML tags.
 Also CSS styling was required to mimic the reference page as close as possible.
 
@@ -41,7 +50,7 @@ https://tribute-page.freecodecamp.rocks
 
 # 💻 Getting Started <a name="getting-started"></a>
 
-You can easily download or fork this repository and work it at once!
+You can easily download or fork this repository and work on it at once!
 
 ### Prerequisites:
 
@@ -49,7 +58,7 @@ No prior requirements needed!
 
 ### Setup:
 
-Simply clone or fork this repository.
+Simply download or fork this repository.
 
 ### Deployment:
 
