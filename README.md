@@ -78,7 +78,6 @@ You can deploy this project by simply uploading the folder to a live server.
 
 - [GitHub](https://github.com/adnanarain1101)
 
-
 <p align="right"><a href="#title">back to top</a></p>
 
 <!-- LICENSE -->
