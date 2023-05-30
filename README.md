@@ -28,12 +28,10 @@ Also CSS styling was required to mimic the reference page as close as possible.
 Reference page design:
 https://tribute-page.freecodecamp.rocks
 
-### Tech Stack:
-
+**Tech Stack:**<br/>
 `HTML5` & `CSS3`
 
-### Key Features:
-
+**Key Features:**
 - Responsive web page with all screen sizes
 - Hero image horizontally centered
 - Bullet points paragraphs
@@ -48,16 +46,13 @@ https://tribute-page.freecodecamp.rocks
 
 You can easily download or fork this repository and work on it at once!
 
-### Prerequisites:
-
+**Prerequisites:**<br/>
 No prior requirements needed!
 
-### Setup:
-
+**Setup:**<br/>
 Simply download or fork this repository.
 
-### Deployment:
-
+**Deployment:**<br/>
 You can deploy this project by simply uploading the folder to a live server.
 
 <p align="right"><a href="#title">back to top</a></p>
@@ -68,14 +63,12 @@ You can deploy this project by simply uploading the folder to a live server.
 
 # 👥 Authors
 
-### Mahammad:
-
+**Mahammad:**
 - [GitHub](https://github.com/mahammad-mostafa)
 - [Twitter](https://twitter.com/mahammad_mostfa)
 - [LinkedIn](https://linkedin.com/in/mahammad-mostafa)
 
-### Adnan:
-
+**Adnan:**
 - [GitHub](https://github.com/adnanarain1101)
 
 <p align="right"><a href="#title">back to top</a></p>
