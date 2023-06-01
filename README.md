@@ -4,7 +4,9 @@
 
 # 🏷️ Tribute Page
 
-This is my first trial project with **Microverse**. Check the below contents for futher details about this project.
+This is my first trial project with **Microverse**.
+<br/>
+Check the below contents for futher details about this project.
 
 <!-- CONTENTS -->
 
@@ -31,7 +33,8 @@ Also CSS styling was required to mimic the reference page as close as possible.
 Reference page design:
 https://tribute-page.freecodecamp.rocks
 
-📌 **Tech Stack:**<br/>
+📌 **Tech Stack:**
+<br/>
 `HTML5` & `CSS3`
 
 📌 **Key Features:**
@@ -49,13 +52,16 @@ https://tribute-page.freecodecamp.rocks
 
 You can easily download or fork this repository and work on it immediately!
 
-📌 **Prerequisites:**<br/>
+📌 **Prerequisites:**
+<br/>
 No prior requirements needed!
 
-📌 **Setup:**<br/>
+📌 **Setup:**
+<br/>
 Simply download or fork this repository.
 
-📌 **Deployment:**<br/>
+📌 **Deployment:**
+<br/>
 You can deploy this project by simply uploading the folder to a live server.
 
 <p align="right"><a href="#title">back to top</a></p>
